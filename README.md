@@ -8,3 +8,6 @@ APMTerminal was created using Visual Studio 2019 C# (aka C Sharp).
 
 # How can I install APMTerminal?
 Search for packages. You can get the latest one by viewing the packages versions, Throughout the building and developing stage, we will show new updates each version.
+
+# Important Notice
+IF YOU GET A PACKAGE AND OPEN THE FILE. PLEASE DO NOT OPLEN THE '.application' FILE, INSTEAD OPEN THE SHORTCUT.
