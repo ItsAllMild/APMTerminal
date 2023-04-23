@@ -11,3 +11,12 @@ Search for releases. You can get the latest one by viewing the releases versions
 
 # Important Notice
 IF YOU GET A PACKAGE AND OPEN THE FILE. PLEASE DO NOT OPLEN THE '.application' FILE, INSTEAD OPEN THE SHORTCUT.
+
+# Commands
+Commands in V1.0.0: 
+
+  'Close()' - Closes the application. Sometimes, it will not work.
+  
+  'ForceClose()' - Forces the application to close. Helpfull if the command Close() does not work.
+  
+  ------------------
